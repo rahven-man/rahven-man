@@ -67,7 +67,7 @@ Probability and statistics explored through simulation. Birthday problem, theory
 **03 · ECHO**<br/>
 <sub>PROJECT / EXPLORATION</sub>
 
-Write 2 to 3 lines here about what ECHO does and the tech used.
+Rahven's ECHO is an enterprise-grade Big Data & NLP pipeline transforming 8.65GB of raw Yelp JSON data into real-time business intelligence.
 
 `Python`
 
